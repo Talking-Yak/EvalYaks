@@ -7,7 +7,7 @@ EvalYaks/
 ├── AverageAcceptableAccuracy_PerformanceDescriptors.png          
 ├── AverageAcceptableAccuracy_WithoutPerformanceDescriptors.png   
 ├── DatasetExample.png                                            
-├── InstructionDatasets/                        # Directory containing datasets used for instruction tuning
+├── InstructionDatasets/                        # Datasets used for instruction tuning
 │   ├── Cambridge_VocabProfile.csv              # Cambridge Vocabulary Profile
 │   ├── CEFR_WikiAuto.csv                       # CEFR WikiAuto Dataset
 │   ├── Part1_Introduction.csv                  # Part 1 of CEFR B2 English speaking assessment
