@@ -28,10 +28,10 @@ EvalYaks/
 
 ![Datapoint examples for different parts of the speaking assessment for instruction tuning.](Files/DatasetExample.png)
 
-### The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with \textit{EvalYaks} part 1-4 models using prompts without performance descriptors.
+### The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with _EvalYaks_ part 1-4 models using prompts without performance descriptors.
 
-![The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with \textit{EvalYaks} part 1-4 models using prompts without performance descriptors.](Files/AverageAcceptableAccuracy_WithoutPerformanceDescriptors.png)
+![The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with _EvalYaks_ part 1-4 models using prompts without performance descriptors.](Files/AverageAcceptableAccuracy_WithoutPerformanceDescriptors.png)
 
-### The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with \textit{EvalYaks} part 1-4 models using prompts with performance descriptors.
+### The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with _EvalYaks_ part 1-4 models using prompts with performance descriptors.
 
 ![The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with _EvalYaks_ part 1-4 models using prompts with performance descriptors.](Files/AverageAcceptableAccuracy_PerformanceDescriptors.png)
