@@ -36,8 +36,13 @@ EvalYaks/
 
 ![The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with _EvalYaks_ part 1-4 models using prompts with performance descriptors.](Files/AverageAcceptableAccuracy_PerformanceDescriptors.png)
 
-@arcticle{scaria2024evalyaks,
-      title={Can Small Language Models Learn, Unlearn, and Retain Noise Patterns?}, 
+### Citation
+
+If you find our dataset and work beneficial, please cite our work:
+
+```bibtex
+@misc{scaria2024evalyaks,
+      title={EvalYaks: Instruction Tuning Datasets and LoRA Fine-tuned Models for Automated Scoring of CEFR B2 Speaking Assessment Transcripts}, 
       author={Nicy Scaria and Silvester John Joseph Kennedy and Thomas Latinovich and Deepak Subramani},
       year={2024},
       eprint={to be added},
@@ -45,3 +50,4 @@ EvalYaks/
       primaryClass={cs.CL},
       url={to be added}, 
 }
+```
