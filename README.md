@@ -31,4 +31,5 @@ EvalYaks/
 ![The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with \textit{EvalYaks} part 1-4 models using prompts without performance descriptors.](InstructionDatasets/AverageAcceptableAccuracy_WithoutPerformanceDescriptors.png)
 
 ### The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with \textit{EvalYaks} part 1-4 models using prompts with performance descriptors.
+
 ![The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with \textit{EvalYaks} part 1-4 models using prompts with performance descriptors.](InstructionDatasets/AverageAcceptableAccuracy_PerformanceDescriptors.png)
