@@ -9,9 +9,10 @@ Relying on human experts to evaluate CEFR speaking assessments in an e-learning 
 
 ```plaintext
 EvalYaks/
-├── AverageAcceptableAccuracy_PerformanceDescriptors.png          
-├── AverageAcceptableAccuracy_WithoutPerformanceDescriptors.png   
-├── DatasetExample.png                                            
+├── Files
+│   ├── AverageAcceptableAccuracy_PerformanceDescriptors.png
+│   ├── AverageAcceptableAccuracy_WithoutPerformanceDescriptors.png         
+│   ├── DatasetExample.png                                            
 ├── InstructionDatasets/                        # Datasets used for instruction tuning
 │   ├── Cambridge_VocabProfile.csv              # Cambridge Vocabulary Profile
 │   ├── CEFR_WikiAuto.csv                       # CEFR WikiAuto Dataset
@@ -24,10 +25,10 @@ EvalYaks/
 ```
 
 ### Datapoint examples for different parts of the speaking assessment for instruction tuning.
-![Datapoint examples for different parts of the speaking assessment for instruction tuning.](DatasetExample.png)
+![Datapoint examples for different parts of the speaking assessment for instruction tuning.](InstructionDatasets/DatasetExample.png)
 
 ### The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with \textit{EvalYaks} part 1-4 models using prompts without performance descriptors.
-![The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with \textit{EvalYaks} part 1-4 models using prompts without performance descriptors.](AverageAcceptableAccuracy_WithoutPerformanceDescriptors.png)
+![The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with \textit{EvalYaks} part 1-4 models using prompts without performance descriptors.](InstructionDatasets/AverageAcceptableAccuracy_WithoutPerformanceDescriptors.png)
 
 ### The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with \textit{EvalYaks} part 1-4 models using prompts with performance descriptors.
-![The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with \textit{EvalYaks} part 1-4 models using prompts with performance descriptors.](AverageAcceptableAccuracy_PerformanceDescriptors.png)
+![The distribution of acceptable accuracy of leading LLMs without LoRA in comparison with \textit{EvalYaks} part 1-4 models using prompts with performance descriptors.](InstructionDatasets/AverageAcceptableAccuracy_PerformanceDescriptors.png)
