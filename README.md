@@ -3,7 +3,7 @@
 ## File Structure
 
 ```plaintext
-my-repo/
+EvalYaks/
 ├── AverageAcceptableAccuracy_PerformanceDescriptors.png          # Image showing acceptable accuracy of the models with performance descriptors
 ├── AverageAcceptableAccuracy_WithoutPerformanceDescriptors.png   # Image showing acceptable accuracy of the models without performance descriptors
 ├── DatasetExample.png                                            # Example image of a datapoint of CEFR B2 English speaking assessment
