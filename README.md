@@ -45,13 +45,13 @@ The performance of _EvalYaks_ compared to different LLMs are given below:
 If you find our dataset and work beneficial, please cite our work:
 
 ```bibtex
-@misc{scaria2024evalyaks,
-      title={\emph{EvalYaks}: Instruction Tuning Datasets and LoRA Fine-tuned Models for Automated Scoring of CEFR B2 Speaking Assessment Transcripts}, 
+@misc{scaria2024evalyaksinstructiontuningdatasets,
+      title={EvalYaks: Instruction Tuning Datasets and LoRA Fine-tuned Models for Automated Scoring of CEFR B2 Speaking Assessment Transcripts}, 
       author={Nicy Scaria and Silvester John Joseph Kennedy and Thomas Latinovich and Deepak Subramani},
       year={2024},
-      eprint={to be added},
+      eprint={2408.12226},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={to be added}, 
+      url={https://arxiv.org/abs/2408.12226}, 
 }
 ```
